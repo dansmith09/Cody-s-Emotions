@@ -1,6 +1,6 @@
 // Shows Happy photo when happy button clicked
 document.getElementById("Happy").addEventListener("click", function Happy() {
-    document.getElementById("Photo").src = "Happy.Jpeg"
+    document.getElementById("Photo").src = "Happy.jpeg"
 })
 
 // Shows Sad photo when sad button clicked
